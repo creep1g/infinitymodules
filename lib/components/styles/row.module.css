@@ -1,0 +1,10 @@
+.row {
+	display: flex;
+	flex-direction: row;
+}
+
+.col {
+	margin: 0 auto;
+	border: 1px solid black;
+	width: 100%;
+}
